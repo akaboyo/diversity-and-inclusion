@@ -1,1 +1,1 @@
-# diversity-and-inclusion
+# [DIVERSITY AND INCLUSION](#diversity-and-inclusion)
