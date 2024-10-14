@@ -23,8 +23,15 @@ The data was then transformed to ensure consistency across various fields. I cat
 ## Visualizations and Insights
 ![diversity1](https://github.com/user-attachments/assets/e9ec4560-696e-41e1-a123-8a4908ebe71b)
 
-### Overview of Diversity Metrics:
+### Report 1 - Overview of Diversity Metrics:
 - Key Metrics: Displayed key metrics, such as total employees, gender distribution, and turnover rate, along with average performance ratings by gender.
 - Promotions and Turnover: Used pie charts and bar charts to highlight the gender breakdown of promotions and leavers, as well as to display employee distribution by age group and region.
 - Department-wise Analysis: Provided insights into employee promotions by department, with a focus on gender disparities.
 
+
+### Report 2 - Detailed Breakdown by Job Level:
+![diversity2](https://github.com/user-attachments/assets/454e6308-c454-4747-9965-73a546179de4)
+
+- Promotions by Gender and Job Level: Visualized the percentage of promotions by gender across different job levels using bar charts, which allow for comparison between male and female promotion rates.
+- Hiring and Promotion Trends: Used line and bar charts to analyze hiring and promotion trends by job level, showing how gender distribution changes across roles.
+- Performance Analysis: Analyzed average performance ratings by job level, highlighting differences between promoted and non-promoted employees for both men and women.
