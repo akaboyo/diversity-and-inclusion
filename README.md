@@ -44,6 +44,7 @@ Added interactive filters for job level, department, age group, and region to al
 ### Cross-filtering: 
 Enabled cross-filtering on the visuals, allowing stakeholders to explore relationships between various metrics dynamically.
 
+[View the PowerBI dashboard here](https://app.powerbi.com/view?r=eyJrIjoiNjg4MWJkZTMtNTE3MC00ZWVhLWFkYmMtYjMyNmYwYzBmNzBkIiwidCI6ImFlNmFhZDgzLWRmNmYtNDkwZi1iMTU5LWNhZDVjNjUyYjhmMCJ9)
 ## Key Insights:
 
 - The dashboard revealed that male employees were promoted more frequently than female employees, particularly in senior roles.
@@ -51,3 +52,7 @@ Enabled cross-filtering on the visuals, allowing stakeholders to explore relatio
 - Performance ratings were slightly higher for male employees compared to female employees across most job levels, which could suggest disparities in performance evaluations 
   that might need further investigation.
 - Regional insights indicated that Europe and Switzerland had a higher concentration of employees, with noticeable gender diversity gaps in specific departments.
+
+## Conclusion:
+This project exemplifies how data visualization can support diversity and inclusion initiatives within a corporate environment. The dashboard not only offers insights into workforce demographics but also serves as a strategic tool for PwC to drive cultural change and promote inclusivity at all organizational levels.
+By presenting self-explanatory visualizations and facilitating user interaction, the dashboard empowered HR leaders to make data-driven decisions to foster a more inclusive workplace.
