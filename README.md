@@ -36,3 +36,18 @@ The data was then transformed to ensure consistency across various fields. I cat
 - Promotions by Gender and Job Level: Visualized the percentage of promotions by gender across different job levels using bar charts, which allow for comparison between male and female promotion rates.
 - Hiring and Promotion Trends: Used line and bar charts to analyze hiring and promotion trends by job level, showing how gender distribution changes across roles.
 - Performance Analysis: Analyzed average performance ratings by job level, highlighting differences between promoted and non-promoted employees for both men and women.
+
+## Interactivity and Usability:
+
+### Filters: 
+Added interactive filters for job level, department, age group, and region to allow users to drill down into specific segments of the workforce and to tailor the analysis based on their interests.
+### Cross-filtering: 
+Enabled cross-filtering on the visuals, allowing stakeholders to explore relationships between various metrics dynamically.
+
+## Key Insights:
+
+- The dashboard revealed that male employees were promoted more frequently than female employees, particularly in senior roles.
+- There was a noticeable turnover rate among female employees, especially at managerial levels, indicating potential areas for improvement in retention strategies.
+- Performance ratings were slightly higher for male employees compared to female employees across most job levels, which could suggest disparities in performance evaluations 
+  that might need further investigation.
+- Regional insights indicated that Europe and Switzerland had a higher concentration of employees, with noticeable gender diversity gaps in specific departments.
