@@ -36,7 +36,7 @@ The dataset was provided by PwC and contains employee records with fields such a
 - Turnover status
 - Performance ratings 
 
-[03 Diversity-Inclusion-Dataset.xlsx](https://github.com/user-attachments/files/17363017/03.Diversity-Inclusion-Dataset.xlsx)
+Download dataset here [03 Diversity-Inclusion-Dataset.xlsx](https://github.com/user-attachments/files/17363017/03.Diversity-Inclusion-Dataset.xlsx)
 
 ## Data Preparation
 
