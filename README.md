@@ -7,7 +7,7 @@ This project presents a Power BI-driven analysis of workforce diversity and incl
 
 Through structured data cleansing, transformation in Power Query, and thoughtful visual design in Power BI, the project highlights disparities in promotion rates and performance outcomes between gender groups, identifies patterns in turnover and regional representation, and surfaces actionable insights about diversity gaps across departments and job levels. Interactive filters and visuals support deeper exploration and enable data-driven decision-making to foster a more inclusive workplace. 
 
-This work demonstrates your ability to apply HR analytics techniques, build impactful Power BI dashboards, and translate complex workforce data into clear, strategic insights for diversity and inclusion initiatives.
+This work demonstrates my ability to apply HR analytics techniques, build impactful Power BI dashboards, and translate complex workforce data into clear, strategic insights for diversity and inclusion initiatives.
 
 ## Project Objective
 This project delivers a **Diversity & Inclusion dashboard** developed in Power BI for a PwC case experience. It explores HR metrics such as gender distribution, promotions, turnover, performance ratings, and regional representation. The goal is to provide leaders with clear insights that support diversity strategy and informed decision-making.
