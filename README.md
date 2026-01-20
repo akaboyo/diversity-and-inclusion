@@ -1,5 +1,7 @@
 # [DIVERSITY AND INCLUSION](#diversity-and-inclusion)
 
+![Image](https://github.com/user-attachments/assets/30bdaf9b-0675-41bd-ac6f-c49b42e8320a)
+
 ## Executive Summary
 
 This project presents a Power BI-driven analysis of workforce diversity and inclusion at a PwC client using a provided HR dataset. The dashboard is designed to help HR leaders and business stakeholders evaluate key diversity metrics across dimensions such as gender, age groups, job levels, promotions, turnover, and performance ratings. 
